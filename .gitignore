@@ -1,0 +1,22 @@
+# Node / frontend
+node_modules/
+dist/
+npm-debug.log*
+
+# Python / backend
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Env & secrets
+.env
+*.local
+
+# OS / éditeurs
+.DS_Store
+.idea/
+.vscode/
